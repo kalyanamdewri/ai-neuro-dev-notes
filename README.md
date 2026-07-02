@@ -29,6 +29,8 @@ science, and software engineering.
 - Build a curated resource list for AI, neuroscience, and engineering practice.
 - Collect project ideas that can grow into useful public demos.
 
+See [ROADMAP.md](ROADMAP.md) for the current project plan.
+
 ## Contributing
 
 Issues and pull requests are welcome when they improve clarity, fix mistakes, or

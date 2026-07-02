@@ -12,7 +12,8 @@ science, and software engineering.
 ## Contents
 
 - `notes/`: short explainers and bridge notes.
-- `examples/`: small runnable or readable examples.
+- `examples/`: small runnable or readable examples, including a
+  [reading-note template](examples/reading-note-template.md).
 - `resources.md`: curated links with context notes.
 
 ## Project Principles
